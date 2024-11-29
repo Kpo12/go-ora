@@ -1,4 +1,4 @@
-module github.com/sijms/go-ora
+module github.com/kpo12/go-ora
 
 go 1.18
 
