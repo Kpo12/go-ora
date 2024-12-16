@@ -2,8 +2,9 @@ package TestIssues
 
 import (
 	"database/sql"
-	go_ora "github.com/sijms/go-ora/v2"
 	"testing"
+
+	go_ora "github.com/kpo12/go-ora/v2"
 )
 
 func TestIssue408(t *testing.T) {

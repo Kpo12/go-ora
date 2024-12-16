@@ -14,9 +14,10 @@ package TestIssues
 import (
 	"database/sql"
 	"fmt"
-	go_ora "github.com/sijms/go-ora/v2"
 	"testing"
 	"time"
+
+	go_ora "github.com/kpo12/go-ora/v2"
 )
 
 func TestNestedUDTArray(t *testing.T) {

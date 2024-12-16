@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	_ "github.com/sijms/go-ora/v2"
+	_ "github.com/kpo12/go-ora/v2"
 )
 
 // create sequence

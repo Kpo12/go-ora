@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/sijms/go-ora/dbms"
-	_ "github.com/sijms/go-ora/v2"
+	"github.com/kpo12/go-ora/dbms"
+	_ "github.com/kpo12/go-ora/v2"
 )
 
 func exec_simple_conn(conn *sql.DB, texts ...string) error {

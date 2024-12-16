@@ -5,8 +5,9 @@ import (
 	"database/sql/driver"
 	"errors"
 	"fmt"
-	go_ora "github.com/sijms/go-ora/v2"
 	"testing"
+
+	go_ora "github.com/kpo12/go-ora/v2"
 )
 
 type OracleBool bool

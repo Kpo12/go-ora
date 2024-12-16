@@ -6,10 +6,11 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	go_ora "github.com/sijms/go-ora/v2"
 	"strings"
 	"testing"
 	"time"
+
+	go_ora "github.com/kpo12/go-ora/v2"
 )
 
 func TestUDTString(t *testing.T) {

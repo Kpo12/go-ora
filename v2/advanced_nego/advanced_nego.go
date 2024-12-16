@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/sijms/go-ora/v2/configurations"
-	"github.com/sijms/go-ora/v2/network"
-	"github.com/sijms/go-ora/v2/trace"
+	"github.com/kpo12/go-ora/v2/configurations"
+	"github.com/kpo12/go-ora/v2/network"
+	"github.com/kpo12/go-ora/v2/trace"
 )
 
 var version = 0xB200200

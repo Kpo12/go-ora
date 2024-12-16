@@ -4,8 +4,9 @@ package TestIssues
 import (
 	"database/sql"
 	"fmt"
-	go_ora "github.com/sijms/go-ora/v2"
 	"testing"
+
+	go_ora "github.com/kpo12/go-ora/v2"
 )
 
 func TestRecallStoredProc(t *testing.T) {

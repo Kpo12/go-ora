@@ -3,8 +3,9 @@ package TestIssues
 import (
 	"context"
 	"database/sql"
-	go_ora "github.com/sijms/go-ora/v2"
 	"testing"
+
+	go_ora "github.com/kpo12/go-ora/v2"
 )
 
 func TestIssue320(t *testing.T) {

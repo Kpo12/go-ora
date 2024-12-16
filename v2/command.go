@@ -13,10 +13,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sijms/go-ora/v2/lazy_init"
+	"github.com/kpo12/go-ora/v2/lazy_init"
 
-	"github.com/sijms/go-ora/v2/configurations"
-	"github.com/sijms/go-ora/v2/network"
+	"github.com/kpo12/go-ora/v2/configurations"
+	"github.com/kpo12/go-ora/v2/network"
 )
 
 type StmtType int

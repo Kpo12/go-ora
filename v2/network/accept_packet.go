@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/sijms/go-ora/v2/configurations"
+	"github.com/kpo12/go-ora/v2/configurations"
 )
 
 // type AcceptPacket Packet

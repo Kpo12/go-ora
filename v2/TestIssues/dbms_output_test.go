@@ -1,8 +1,9 @@
 package TestIssues
 
 import (
-	"github.com/sijms/go-ora/dbms"
 	"testing"
+
+	"github.com/kpo12/go-ora/dbms"
 )
 
 func TestDBMS_OUTPUT(t *testing.T) {

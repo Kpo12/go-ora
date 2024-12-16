@@ -13,9 +13,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sijms/go-ora/advanced_nego"
-	"github.com/sijms/go-ora/network"
-	"github.com/sijms/go-ora/trace"
+	"github.com/kpo12/go-ora/advanced_nego"
+	"github.com/kpo12/go-ora/network"
+	"github.com/kpo12/go-ora/trace"
 )
 
 type PromotableTransaction int

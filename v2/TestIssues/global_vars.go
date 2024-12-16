@@ -4,11 +4,12 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	go_ora "github.com/sijms/go-ora/v2"
 	"os"
 	"reflect"
 	"strconv"
 	"time"
+
+	go_ora "github.com/kpo12/go-ora/v2"
 )
 
 // var db *sql.DB

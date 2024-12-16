@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/sijms/go-ora/network"
+	"github.com/kpo12/go-ora/network"
 )
 
 type simpleObject struct {

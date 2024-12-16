@@ -2,8 +2,9 @@ package TestIssues
 
 import (
 	"bytes"
-	go_ora "github.com/sijms/go-ora/v2"
 	"testing"
+
+	go_ora "github.com/kpo12/go-ora/v2"
 )
 
 func TestSessionPars(t *testing.T) {

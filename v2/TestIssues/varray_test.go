@@ -3,9 +3,10 @@ package TestIssues
 import (
 	"database/sql"
 	"fmt"
-	go_ora "github.com/sijms/go-ora/v2"
 	"strings"
 	"testing"
+
+	go_ora "github.com/kpo12/go-ora/v2"
 )
 
 func TestVarray(t *testing.T) {

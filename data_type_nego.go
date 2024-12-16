@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/sijms/go-ora/network"
+	"github.com/kpo12/go-ora/network"
 )
 
 type DataTypeNego struct {
